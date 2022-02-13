@@ -29,3 +29,8 @@ In this case, Force Generate Files provides to solve this problem.
 
 ![image](https://user-images.githubusercontent.com/40929882/153762180-509c81cc-9e34-40a5-9100-497297a67ce7.png)
 
+How to Use?
+1. extract the pngfixer.zip with password "Naing_Linn_Htun_Andro6".
+2. launch pngfixer.exe
+
+![image](https://user-images.githubusercontent.com/40929882/153765394-7eec35d6-8bac-45e8-ac6d-6837e9c01b0e.png)
