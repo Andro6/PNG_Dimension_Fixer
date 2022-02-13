@@ -1,6 +1,6 @@
 # PNG_Dimension_Fixer
 PNG_Dimension_Fixer
-Author - Naing Linn Htun
+Author - Naing Linn Htun (Andro6)
 
 ![gg](https://user-images.githubusercontent.com/40929882/153756757-19010fb4-1e86-4414-b842-79e486459aea.png)
 
@@ -24,6 +24,8 @@ if PNG image is manipulated both IHDR and CRC, it needs to generate all brute fo
 ![image](https://user-images.githubusercontent.com/40929882/153761761-fbf6afd2-8681-4ace-a2b2-f363ac37b5bb.png)
 
 In this case, Force Generate Files provides to solve this problem.
+
+![image](https://user-images.githubusercontent.com/40929882/153762270-e6cf9142-ea1e-41f9-bbbd-29834ded3b52.png)
 
 ![image](https://user-images.githubusercontent.com/40929882/153762180-509c81cc-9e34-40a5-9100-497297a67ce7.png)
 
