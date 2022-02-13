@@ -13,7 +13,7 @@ IHDR        - 49 48 44 52 00 00 03 97 00 00 02 9E 08 02 00 00 00
 byte(IHDR)  - b'IHDR\x00\x00\x03\x97\x00\x00\x02\x9e\x08\x02\x00\x00\x00'
 
 If CRC32(byte(IHDR)) is equal 'BE 8F 78 CE', image dimesion is correct.
-We can use Dimension Fixer feature of this tool when PNG dimension is manipulated.
+We can use 'Dimension Fixer' feature of this tool when PNG dimension is manipulated.
 
 ![image](https://user-images.githubusercontent.com/40929882/153757209-5067d29d-f6a9-4f2e-be56-485fffc33706.png)
 
@@ -23,7 +23,7 @@ if PNG image is manipulated both IHDR and CRC, it needs to generate all brute fo
 
 ![image](https://user-images.githubusercontent.com/40929882/153761761-fbf6afd2-8681-4ace-a2b2-f363ac37b5bb.png)
 
-In this case, Force Generate Files provides to solve this problem.
+In this case, 'Force Generate Files' feature provides to solve this problem.
 
 ![image](https://user-images.githubusercontent.com/40929882/153762270-e6cf9142-ea1e-41f9-bbbd-29834ded3b52.png)
 
